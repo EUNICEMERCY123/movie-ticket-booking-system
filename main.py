@@ -1,9 +1,9 @@
 # Movie Ticket Booking System
 
 def display_movies():
-    print("1. Avengers: Endgame")
-    print("2. Interstellar")
-    print("3. Inception")
+    print("1. Avengers: Endgame - 5:00 PM")
+    print("2. Interstellar - 7:30 PM")
+    print("3. Inception - 9:00 PM")
 
 def book_ticket():
     movie = input("Enter movie name: ")
